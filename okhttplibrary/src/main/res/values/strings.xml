@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Okhttp Library</string>
+    <string name="get_data">常规获取数据</string>
+    <string name="get_data_json">JSON获取数据</string>
+</resources>
